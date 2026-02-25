@@ -18,4 +18,4 @@ function calculaIMC(peso, altura){
 
 }
 
-calculaIMC(62, 1.79)
+calculaIMC(100, 1.79)
